@@ -25,3 +25,5 @@ Theme documentation available [here](https://colorlib.com/wp/themes/shapely/).
 ## License
 
 This theme is licensed under GPLv3. You can feel free to modify it as long as you keep the original copyright information.
+
+Small change
